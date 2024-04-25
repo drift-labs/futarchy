@@ -63,7 +63,7 @@ type ProposalInstruction = anchor.IdlTypes<AutocratV0>["ProposalInstruction"];
 
 // this test file isn't 'clean' or DRY or whatever; sorry!
 const AUTOCRAT_PROGRAM_ID = new PublicKey(
-  "metaRK9dUBnrAdZN6uUDKvxBVKW5pyCbPVmLtUZwtBp"
+  "DrifuTKDRv9NkV7di7Ra7YQi7qYPzQeZDmLda5Aroxwq"
 );
 
 const CONDITIONAL_VAULT_PROGRAM_ID = new PublicKey(
